@@ -1,12 +1,19 @@
 Work in progress
 
-See ya soon
+Context :
 
-- 👋 Hi, I’m @guyemInc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+User prerequisite :
+- RTE user account enabled
+- RTE API production Forecast enabled
+- 
+- 
+Technical prerequisite :
+
+- 👋 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 guyemInc/guyemInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
